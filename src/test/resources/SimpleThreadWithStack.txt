@@ -1,0 +1,13 @@
+2014-02-02 00:40:14
+Full thread dump OpenJDK 64-Bit Server VM (23.7-b01 mixed mode):
+
+"process reaper" daemon prio=10 tid=0x00007ffb8c2ff800 nid=0xe29 runnable [0x00007ffb7e8a2000]
+   java.lang.Thread.State: RUNNABLE
+	at java.lang.UNIXProcess.waitForProcessExit(Native Method)
+	at java.lang.UNIXProcess.access$200(UNIXProcess.java:54)
+	at java.lang.UNIXProcess$3.run(UNIXProcess.java:174)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:724)
+	
+JNI global references: 1226

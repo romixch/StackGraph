@@ -1,0 +1,20 @@
+2014-02-02 00:40:14
+Full thread dump OpenJDK 64-Bit Server VM (23.7-b01 mixed mode):
+
+"ReaderThread" prio=10 tid=0x00007ffb8c204800 nid=0xe27 runnable [0x00007ffb84122000]
+   java.lang.Thread.State: RUNNABLE
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:150)
+	at java.net.SocketInputStream.read(SocketInputStream.java:121)
+	at sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:283)
+	at sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:325)
+	at sun.nio.cs.StreamDecoder.read(StreamDecoder.java:177)
+	- locked <0x00000007ce25a3c8> (a java.io.InputStreamReader)
+	at java.io.InputStreamReader.read(InputStreamReader.java:184)
+	at java.io.BufferedReader.fill(BufferedReader.java:154)
+	at java.io.BufferedReader.readLine(BufferedReader.java:317)
+	- locked <0x00000007ce25a3c8> (a java.io.InputStreamReader)
+	at java.io.BufferedReader.readLine(BufferedReader.java:382)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner$ReaderThread.run(RemoteTestRunner.java:140)
+
+JNI global references: 1226

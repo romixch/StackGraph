@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="Neues Dokument 1">
+  <defs
+     id="defs4">
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lend"
+       style="overflow:visible;">
+      <path
+         id="path3972"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;"
+         transform="scale(0.8) rotate(180) translate(12.5,0)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="353.54005"
+     inkscape:cy="565.16821"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1031"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g3916"
+       transform="translate(-86.428571,387.14286)">
+      <path
+         transform="matrix(2.2270639,0,0,2.2331423,-169.18197,-241.44832)"
+         d="m 295.71428,200.93361 c 0,11.83467 -46.37051,21.42857 -103.57143,21.42857 -57.20092,0 -103.571424,-9.5939 -103.571424,-21.42857 0,-11.83467 46.370504,-21.42857 103.571424,-21.42857 57.20092,0 103.57143,9.5939 103.57143,21.42857 z"
+         sodipodi:ry="21.428572"
+         sodipodi:rx="103.57143"
+         sodipodi:cy="200.93361"
+         sodipodi:cx="192.14285"
+         id="path2985"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         sodipodi:type="arc" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3774"
+         y="195.09677"
+         x="68.524277"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           style="font-size:12px"
+           y="195.09677"
+           x="68.524277"
+           id="tspan3776"
+           sodipodi:role="line">StackElement:</tspan><tspan
+           id="tspan3784"
+           style="font-size:12px"
+           y="210.09677"
+           x="68.524277"
+           sodipodi:role="line">ch.romixch.jstackgraph.SomeClass.someStuff(SomeClass.java:42)</tspan><tspan
+           id="tspan3786"
+           style="font-size:12px"
+           y="225.09677"
+           x="68.524277"
+           sodipodi:role="line">LeafCount: 41</tspan></text>
+    </g>
+    <g
+       id="g3923"
+       transform="translate(-30.714287,197.14285)">
+      <path
+         transform="matrix(2.2270639,0,0,2.2331423,-227.91441,-372.77973)"
+         d="m 295.71428,200.93361 c 0,11.83467 -46.37051,21.42857 -103.57143,21.42857 -57.20092,0 -103.571424,-9.5939 -103.571424,-21.42857 0,-11.83467 46.370504,-21.42857 103.571424,-21.42857 57.20092,0 103.57143,9.5939 103.57143,21.42857 z"
+         sodipodi:ry="21.428572"
+         sodipodi:rx="103.57143"
+         sodipodi:cy="200.93361"
+         sodipodi:cx="192.14285"
+         id="path2985-2"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         sodipodi:type="arc" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3774-8"
+         y="63.765366"
+         x="9.7918453"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           style="font-size:12px"
+           y="63.765366"
+           x="9.7918453"
+           id="tspan3776-26"
+           sodipodi:role="line">StackElement:</tspan><tspan
+           id="tspan3784-2"
+           style="font-size:12px"
+           y="78.765366"
+           x="9.7918453"
+           sodipodi:role="line">ch.romixch.jstackgraph.OtherClass.otherStuff(SomeClass.java:42)</tspan><tspan
+           id="tspan3786-1"
+           style="font-size:12px"
+           y="93.765366"
+           x="9.7918453"
+           sodipodi:role="line">LeafCount: 47</tspan></text>
+    </g>
+    <g
+       id="g3930"
+       transform="translate(-66.428576,64.285715)">
+      <path
+         transform="matrix(2.2270639,0,0,2.2331423,191.3713,-374.92259)"
+         d="m 295.71428,200.93361 c 0,11.83467 -46.37051,21.42857 -103.57143,21.42857 -57.20092,0 -103.571424,-9.5939 -103.571424,-21.42857 0,-11.83467 46.370504,-21.42857 103.571424,-21.42857 57.20092,0 103.57143,9.5939 103.57143,21.42857 z"
+         sodipodi:ry="21.428572"
+         sodipodi:rx="103.57143"
+         sodipodi:cy="200.93361"
+         sodipodi:cx="192.14285"
+         id="path2985-4"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         sodipodi:type="arc" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3774-6"
+         y="61.622501"
+         x="429.07755"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           style="font-size:12px"
+           y="61.622501"
+           x="429.07755"
+           id="tspan3776-6"
+           sodipodi:role="line">StackElement:</tspan><tspan
+           id="tspan3784-6"
+           style="font-size:12px"
+           y="76.622498"
+           x="429.07755"
+           sodipodi:role="line">java.lang.String.&lt;init&gt;(Unknown Source)</tspan><tspan
+           id="tspan3786-2"
+           style="font-size:12px"
+           y="91.622498"
+           x="429.07755"
+           sodipodi:role="line">LeafCount: 35</tspan></text>
+    </g>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3875"
+       y="329.50504"
+       x="524.28571"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"><tspan
+         y="329.50504"
+         x="524.28571"
+         id="tspan3877"
+         sodipodi:role="line"></tspan></text>
+    <g
+       id="g3909"
+       transform="translate(66.428572,124.28572)">
+      <path
+         transform="matrix(2.2270639,0,0,2.2331423,90.657018,-139.92259)"
+         d="m 295.71428,200.93361 c 0,11.83467 -46.37051,21.42857 -103.57143,21.42857 -57.20092,0 -103.571424,-9.5939 -103.571424,-21.42857 0,-11.83467 46.370504,-21.42857 103.571424,-21.42857 57.20092,0 103.57143,9.5939 103.57143,21.42857 z"
+         sodipodi:ry="21.428572"
+         sodipodi:rx="103.57143"
+         sodipodi:cy="200.93361"
+         sodipodi:cx="192.14285"
+         id="path2985-3"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         sodipodi:type="arc" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3774-2"
+         y="296.6225"
+         x="328.36328"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           style="font-size:12px"
+           y="296.6225"
+           x="328.36328"
+           id="tspan3776-5"
+           sodipodi:role="line">StackElement:</tspan><tspan
+           id="tspan3784-68"
+           style="font-size:12px"
+           y="311.6225"
+           x="328.36328"
+           sodipodi:role="line">ch.romixch.jstackgraph.complex.Foo.bar(Foo.java:273)</tspan><tspan
+           id="tspan3786-7"
+           style="font-size:12px"
+           y="326.6225"
+           x="328.36328"
+           sodipodi:role="line">LeafCount: 80</tspan></text>
+    </g>
+    <g
+       transform="translate(162.33899,629.38289)"
+       id="g3790-4">
+      <path
+         transform="matrix(1.6251693,0,0,2.240652,-116.03223,-242.95728)"
+         d="m 295.71428,200.93361 c 0,11.83467 -46.37051,21.42857 -103.57143,21.42857 -57.20092,0 -103.571424,-9.5939 -103.571424,-21.42857 0,-11.83467 46.370504,-21.42857 103.571424,-21.42857 57.20092,0 103.57143,9.5939 103.57143,21.42857 z"
+         sodipodi:ry="21.428572"
+         sodipodi:rx="103.57143"
+         sodipodi:cy="200.93361"
+         sodipodi:cx="192.14285"
+         id="path2985-7"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         sodipodi:type="arc" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3774-1"
+         y="195.09677"
+         x="68.524277"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           style="font-size:12px"
+           y="195.09677"
+           x="68.524277"
+           id="tspan3776-2"
+           sodipodi:role="line">StackElement:</tspan><tspan
+           id="tspan3784-8"
+           style="font-size:12px"
+           y="210.09677"
+           x="68.524277"
+           sodipodi:role="line">ch.romixch.jstackgraph.Main.main(Main.java:42)</tspan><tspan
+           id="tspan3786-3"
+           style="font-size:12px"
+           y="225.09677"
+           x="68.524277"
+           sodipodi:role="line">LeafCount: 2</tspan></text>
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+       d="M 342.85714,786.6479 207.14286,640.93361"
+       id="path3963"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="292.85715"
+       y="676.64789"
+       id="text4409"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4411"
+         x="292.85715"
+         y="676.64789">WatchCount: 199</tspan><tspan
+         sodipodi:role="line"
+         x="292.85715"
+         y="726.64789"
+         id="tspan4413" /></text>
+  </g>
+</svg>

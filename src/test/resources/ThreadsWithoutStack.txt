@@ -1,0 +1,34 @@
+2014-02-02 00:40:14
+Full thread dump OpenJDK 64-Bit Server VM (23.7-b01 mixed mode):
+
+"Attach Listener" daemon prio=10 tid=0x00007ffb54001000 nid=0xe37 waiting on condition [0x0000000000000000]
+   java.lang.Thread.State: RUNNABLE
+
+"Service Thread" daemon prio=10 tid=0x00007ffb8c125800 nid=0xe25 runnable [0x0000000000000000]
+   java.lang.Thread.State: RUNNABLE
+
+"C2 CompilerThread1" daemon prio=10 tid=0x00007ffb8c123000 nid=0xe24 waiting on condition [0x0000000000000000]
+   java.lang.Thread.State: RUNNABLE
+
+"C2 CompilerThread0" daemon prio=10 tid=0x00007ffb8c120800 nid=0xe23 waiting on condition [0x0000000000000000]
+   java.lang.Thread.State: RUNNABLE
+
+"JDWP Command Reader" daemon prio=10 tid=0x00007ffb58001000 nid=0xe21 runnable [0x0000000000000000]
+   java.lang.Thread.State: RUNNABLE
+
+"JDWP Event Helper Thread" daemon prio=10 tid=0x00007ffb8c11e000 nid=0xe1f runnable [0x0000000000000000]
+   java.lang.Thread.State: RUNNABLE
+
+"VM Thread" prio=10 tid=0x00007ffb8c0aa000 nid=0xe18 runnable 
+
+"GC task thread#0 (ParallelGC)" prio=10 tid=0x00007ffb8c019800 nid=0xe14 runnable 
+
+"GC task thread#1 (ParallelGC)" prio=10 tid=0x00007ffb8c01b800 nid=0xe15 runnable 
+
+"GC task thread#2 (ParallelGC)" prio=10 tid=0x00007ffb8c01d800 nid=0xe16 runnable 
+
+"GC task thread#3 (ParallelGC)" prio=10 tid=0x00007ffb8c01f000 nid=0xe17 runnable 
+
+"VM Periodic Task Thread" prio=10 tid=0x00007ffb8c130000 nid=0xe26 waiting on condition 
+
+JNI global references: 1226

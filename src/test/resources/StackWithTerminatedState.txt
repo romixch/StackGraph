@@ -1,0 +1,6 @@
+2014-02-02 00:40:14
+Full thread dump OpenJDK 64-Bit Server VM (23.7-b01 mixed mode):
+
+"main" prio=10 tid=0x00007f7f4c00c800 nid=0x291a at breakpoint[0x00007f7f531d9000]
+   java.lang.Thread.State: TERMINATED
+	at ch.romix.jstackgraph.collector.JStackCollector.<init>(JStackCollector.java:14)
